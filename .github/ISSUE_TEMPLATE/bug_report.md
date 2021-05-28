@@ -1,9 +1,9 @@
 ---
-name: Bug report
-about: Report a bug on Minehut
-title: ''
+name: Too many mobs on easy mode
+about: I always find way too much mobs in easy mode and it feels like hard mode instead
+title: nerf spawn rates in easy moed
 labels: bug
-assignees: ''
+assignees: Spawn rate mobs
 
 ---
 
